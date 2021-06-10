@@ -10,5 +10,5 @@ int main()
     printf("Area of circle is %.2f\n",result1);
     float result2=2*3.14*radius;
     printf("Circumference of circle is %.2f",result2);
-    return 0;
+    return 1;
 }
